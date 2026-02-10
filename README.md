@@ -28,3 +28,4 @@ PlasMusic Toolbar - [KDE Store](https://store.kde.org/p/2088872) / [GitHub](http
 <br>    All options default.
 <br>KDE Control Station - [KDE Store](https://store.kde.org/p/2196105) / [GitHub](https://github.com/EliverLara/kde-control-station/tree/plasma6)
 <br>    Scale 105, default layout, use system highlight color, thin slider on volume and brightness.
+<br>Binary Clock - Stock Plasma widget
