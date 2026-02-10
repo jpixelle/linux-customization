@@ -1,6 +1,9 @@
 # Links to Plasma widgets and themes
 None of these projects are associated with me, I simply use them daily with my Linux desktop.
 
+<img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/cae77e64-af3c-4925-abef-a733e0bcf5d3" />
+
+
 **Operating System**: Bazzite 43
 <br>**KDE Plasma Version**: 6.5.5
 <br>**KDE Frameworks Version**: 6.22.0
