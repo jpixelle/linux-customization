@@ -28,7 +28,7 @@ PlasMusic Toolbar - [KDE Store](https://store.kde.org/p/2088872) / [GitHub](http
 <br>Nori Weather - [KDE Store](https://store.kde.org/p/2230382) / [GitHub](https://github.com/zayronxio/NoriWeather)
 <br>    Fahrenheit, 16pt.
 <br>KDE Minimalist Clock - [KDE Store](https://store.kde.org/p/2135642) / [GitHub](https://github.com/prayag2/kde_minimalistclock)
-<br>    All options default.
+<br>    Adwaita Mono for both fonts. All other options default.
 <br>KDE Control Station - [KDE Store](https://store.kde.org/p/2196105) / [GitHub](https://github.com/EliverLara/kde-control-station/tree/plasma6)
 <br>    Scale 105, default layout, use system highlight color, thin slider on volume and brightness.
 <br>Binary Clock - Stock Plasma widget
