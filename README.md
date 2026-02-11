@@ -2,6 +2,7 @@
 None of these projects are associated with me, I simply use them daily with my Linux desktop.
 
 <img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/07b497e1-e83d-437f-b66d-65f0a97c50e9" />
+<img width="616" height="626" alt="image" src="https://github.com/user-attachments/assets/bcc87598-e5f1-454b-9b27-2c336a4f51a3" />
 <img width="544" height="586" alt="image" src="https://github.com/user-attachments/assets/efa980e6-f016-40a7-a0ce-ddbf4a2549a9" />
 
 **Operating System**: Bazzite 43
