@@ -1,9 +1,11 @@
 # Links to Plasma widgets and themes
 None of these projects are associated with me, I simply use them daily with my Linux desktop.
-
-<img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/07b497e1-e83d-437f-b66d-65f0a97c50e9" />
-<img width="616" height="626" alt="image" src="https://github.com/user-attachments/assets/bcc87598-e5f1-454b-9b27-2c336a4f51a3" />
-<img width="544" height="586" alt="image" src="https://github.com/user-attachments/assets/efa980e6-f016-40a7-a0ce-ddbf4a2549a9" />
+  <details>
+    <summary>Click me for screenshots.</summary>
+        <img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/07b497e1-e83d-437f-b66d-65f0a97c50e9" />
+        <img width="616" height="626" alt="image" src="https://github.com/user-attachments/assets/bcc87598-e5f1-454b-9b27-2c336a4f51a3" />
+        <img width="544" height="586" alt="image" src="https://github.com/user-attachments/assets/efa980e6-f016-40a7-a0ce-ddbf4a2549a9" />
+  </details>
 
 **Operating System**: Bazzite 43
 <br>**KDE Plasma Version**: 6.5.5
@@ -22,6 +24,14 @@ None of these projects are associated with me, I simply use them daily with my L
 <br>**Cursors**: Polarnight Cursors - [OpenDesktop](https://www.opendesktop.org/p/1615757) / [GitHub](https://github.com/yeyushengfan258/Polarnight-Cursors)
 <br>**Splash Screen**: Kuro OLED - [Pling](https://www.pling.com/p/2302404/) / [GitHub](https://github.com/bouteillerAlan/kuro)
 <br>**Login Screen**: McMojave SDDM - [Pling](https://www.pling.com/p/1312086) / [GitHub](https://github.com/vinceliuice/McMojave-kde)
+
+**Wallpapers**: [Desktop](https://github.com/jpixelle/linux-customization/blob/main/wallpapers/sunset-tides-wave-5760x3840-21367.jpg) / [Login screen](https://github.com/jpixelle/linux-customization/tree/main/wallpapers/login%20screen)
+
+  <details>
+      <summary>Click me for previews</summary>
+      <img width="720" alt="Desktop" src="https://github.com/jpixelle/linux-customization/blob/main/wallpapers/sunset-tides-wave-5760x3840-21367.jpg?raw=true" />
+      <img width="720" alt="Lock screen" src="https://github.com/user-attachments/assets/d8918a8d-cd11-4019-8ef0-9d2221a8a231" />
+  </details>
 
 ## Widgets
 **PlasMusic Toolbar** - [KDE Store](https://store.kde.org/p/2088872) / [GitHub](https://github.com/ccatterina/plasmusic-toolbar)
