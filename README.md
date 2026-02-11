@@ -24,14 +24,14 @@ None of these projects are associated with me, I simply use them daily with my L
 <br>**Login Screen**: McMojave SDDM - [Pling](https://www.pling.com/p/1312086) / [GitHub](https://github.com/vinceliuice/McMojave-kde)
 
 ## Widgets
-PlasMusic Toolbar - [KDE Store](https://store.kde.org/p/2088872) / [GitHub](https://github.com/ccatterina/plasmusic-toolbar)
-<br>    11pt Adwaita Mono (bold italic); max width 275; text scrolling x3, only on mouse over, reset position.
-<br>Nori Weather - [KDE Store](https://store.kde.org/p/2230382) / [GitHub](https://github.com/zayronxio/NoriWeather)
-<br>    Fahrenheit, 16pt.
-<br>KDE Minimalist Clock - [KDE Store](https://store.kde.org/p/2135642) / [GitHub](https://github.com/prayag2/kde_minimalistclock)
-<br>    Adwaita Mono for both fonts. All other options default.
-<br>KDE Control Station - [KDE Store](https://store.kde.org/p/2196105) / [GitHub](https://github.com/EliverLara/kde-control-station/tree/plasma6)
-<br>    Scale 105; default layout; use system highlight color; thin slider on volume and brightness.
-<br>Binary Clock - Stock Plasma widget
-<br>Wallpaper Effects - [KDE Store](https://store.kde.org/p/2145723) / [GitHub](https://github.com/luisbocanegra/plasma-wallpaper-effects)
-<br>    Blur: always, radius: 25, hide in: overview; Pixelate: never; Grain: never; Color: never; Rounded corners (optional): enable, custom #000000
+**PlasMusic Toolbar** - [KDE Store](https://store.kde.org/p/2088872) / [GitHub](https://github.com/ccatterina/plasmusic-toolbar)
+<br>    - 11pt Adwaita Mono (bold italic); max width 275; text scrolling x3, only on mouse over, reset position.
+<br>**Nori Weather** - [KDE Store](https://store.kde.org/p/2230382) / [GitHub](https://github.com/zayronxio/NoriWeather)
+<br>    - Fahrenheit, 16pt.
+<br>**KDE Minimalist Clock** - [KDE Store](https://store.kde.org/p/2135642) / [GitHub](https://github.com/prayag2/kde_minimalistclock)
+<br>    - Adwaita Mono for both fonts. All other options default.
+<br>**KDE Control Station** - [KDE Store](https://store.kde.org/p/2196105) / [GitHub](https://github.com/EliverLara/kde-control-station/tree/plasma6)
+<br>    - Scale 105; default layout; use system highlight color; thin slider on volume and brightness.
+<br>**Binary Clock** - Stock Plasma widget
+<br>**Wallpaper Effects** - [KDE Store](https://store.kde.org/p/2145723) / [GitHub](https://github.com/luisbocanegra/plasma-wallpaper-effects)
+<br>    - Blur: always, radius: 25, hide in: overview; Pixelate: never; Grain: never; Color: never; Rounded corners (optional): enable, custom #000000
