@@ -7,11 +7,11 @@ None of these projects are associated with me, I simply use them daily with my L
         <img width="544" height="586" alt="image" src="https://github.com/user-attachments/assets/efa980e6-f016-40a7-a0ce-ddbf4a2549a9" />
   </details>
 
-**Operating System**: Bazzite 43
-<br>**KDE Plasma Version**: 6.5.5
-<br>**KDE Frameworks Version**: 6.22.0
-<br>**Qt Version**: 6.10.1
-<br>**Kernel Version**: 6.17.7-ba25.fc43.x86_64 (64-bit)
+**Operating System**: Bazzite 44
+<br>**KDE Plasma Version**: 6.6.4
+<br>**KDE Frameworks Version**: 6.25.0
+<br>**Qt Version**: 6.10.3
+<br>**Kernel Version**: 6.19.14-ogc1.1.fc44.x86_64 (64-bit)
 <br>**Graphics Platform**: Wayland
 
 ## Theming
@@ -25,23 +25,32 @@ None of these projects are associated with me, I simply use them daily with my L
 <br>**Splash Screen**: Kuro OLED - [Pling](https://www.pling.com/p/2302404/) / [GitHub](https://github.com/bouteillerAlan/kuro)
 <br>**Login Screen**: McMojave SDDM - [Pling](https://www.pling.com/p/1312086) / [GitHub](https://github.com/vinceliuice/McMojave-kde)
 
-**Wallpapers**: [Desktop](https://github.com/jpixelle/linux-customization/blob/main/wallpapers/sunset-tides-wave-5760x3840-21367.jpg) / [Login screen](https://github.com/jpixelle/linux-customization/tree/main/wallpapers/login%20screen)
+**Wallpapers**: [Desktop](https://github.com/jpixelle/linux-customization/blob/main/01_blue.jpg) / [Login screen](https://github.com/jpixelle/linux-customization/blob/main/02_login.png)
 
   <details>
       <summary>Click me for previews</summary>
-      <img width="720" alt="Desktop" src="https://github.com/jpixelle/linux-customization/blob/main/wallpapers/sunset-tides-wave-5760x3840-21367.jpg?raw=true" />
-      <img width="720" alt="Lock screen" src="https://github.com/user-attachments/assets/d8918a8d-cd11-4019-8ef0-9d2221a8a231" />
+      <img width="720" alt="Desktop" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview.png?raw=true" />
+      <img width="720" alt="Lock screen" src="https://github.com/jpixelle/linux-customization/blob/main/02_login.png?raw=true" />
+      <img width="720" alt="Widget explanation" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview_widgets.png" />
   </details>
 
 ## Widgets
 **PlasMusic Toolbar** - [KDE Store](https://store.kde.org/p/2088872) / [GitHub](https://github.com/ccatterina/plasmusic-toolbar)
 <br>    - 11pt Adwaita Mono (bold italic); max width 275; text scrolling x3, only on mouse over, reset position.
-<br>**Nori Weather** - [KDE Store](https://store.kde.org/p/2230382) / [GitHub](https://github.com/zayronxio/NoriWeather)
-<br>    - Fahrenheit, 16pt.
-<br>**KDE Minimalist Clock** - [KDE Store](https://store.kde.org/p/2135642) / [GitHub](https://github.com/prayag2/kde_minimalistclock)
-<br>    - Adwaita Mono for both fonts. All other options default.
+<br>**Maxwell** - [OpenDesktop](https://www.opendesktop.org/p/2274580/) / [GitHub](https://github.com/wilversings/maxwell)
+<br>    - 10/10 no notes
+<br>**Andromeda Launcher** - [OpenDesktop](https://www.opendesktop.org/p/2144212/) / [GitHub](https://github.com/EliverLara/AndromedaLauncher)
+<br>    - Icon: fcitx-emoji; Greeting: [yourname]; Glow: disabled; Launcher positioning: horizontal center, floating; Pinned applications page: default
 <br>**KDE Control Station** - [KDE Store](https://store.kde.org/p/2196105) / [GitHub](https://github.com/EliverLara/kde-control-station/tree/plasma6)
 <br>    - Scale 105; default layout; use system highlight color; thin slider on volume and brightness.
-<br>**Binary Clock** - Stock Plasma widget
 <br>**Wallpaper Effects** - [KDE Store](https://store.kde.org/p/2145723) / [GitHub](https://github.com/luisbocanegra/plasma-wallpaper-effects)
-<br>    - Blur: always, radius: 25, hide in: overview; Pixelate: never; Grain: never; Color: never; Rounded corners (optional): enable, custom #000000
+<br>    - Blur: always, radius: 5, hide in: overview; Pixelate: never; Grain: never; Color: always, brightness: -0.30; Rounded corners (optional): enable, custom #000000
+<br>**Plasma Lyrics** - [KDE Store](https://store.kde.org/p/2349929) / [GitHub](https://github.com/Lyall-A/Plasma-Lyrics)
+<br>    - Fixed size: disabled; Margin: 9; Font: Adwaita Mono, size: 20; Custom background: enabled, transparent; Fade: 275;
+<br>**SysPeek** - [OpenDesktop](https://www.opendesktop.org/p/2304482/) / [GitHub](https://github.com/PRASSamin/SysPeek)
+<br>    - Fixed width: 400; Item spacing: 27, label spacing: 4; Desktop opacity: 45%; Font size: 10, Adwaita Mono
+
+## Cool Details
+**Google Messages (but on desktop)**
+<br>    - Add "Web Browser" widget to panel.
+<br>    - On startup: always load https://messages.google.com/web/conversations; Content scaling: fixed 100%; Display Navigation Bar: disabled
