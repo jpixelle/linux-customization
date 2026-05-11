@@ -1,10 +1,10 @@
 # Links to Plasma widgets and themes
 None of these projects are associated with me, I simply use them daily with my Linux desktop.
   <details>
-    <summary>Click me for screenshots.</summary>
-        <img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/07b497e1-e83d-437f-b66d-65f0a97c50e9" />
-        <img width="616" height="626" alt="image" src="https://github.com/user-attachments/assets/bcc87598-e5f1-454b-9b27-2c336a4f51a3" />
-        <img width="544" height="586" alt="image" src="https://github.com/user-attachments/assets/efa980e6-f016-40a7-a0ce-ddbf4a2549a9" />
+      <summary>Click me for previews</summary>
+      <img width="720" alt="Desktop" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview.png?raw=true" />
+      <img width="720" alt="Lock screen" src="https://github.com/jpixelle/linux-customization/blob/main/02_login.png?raw=true" />
+      <img width="720" alt="Widget explanation" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview_widgets.png" />
   </details>
 
 **Operating System**: Bazzite 44
@@ -26,13 +26,6 @@ None of these projects are associated with me, I simply use them daily with my L
 <br>**Login Screen**: McMojave SDDM - [Pling](https://www.pling.com/p/1312086) / [GitHub](https://github.com/vinceliuice/McMojave-kde)
 
 **Wallpapers**: [Desktop](https://github.com/jpixelle/linux-customization/blob/main/01_blue.jpg) / [Login screen](https://github.com/jpixelle/linux-customization/blob/main/02_login.png)
-
-  <details>
-      <summary>Click me for previews</summary>
-      <img width="720" alt="Desktop" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview.png?raw=true" />
-      <img width="720" alt="Lock screen" src="https://github.com/jpixelle/linux-customization/blob/main/02_login.png?raw=true" />
-      <img width="720" alt="Widget explanation" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview_widgets.png" />
-  </details>
 
 ## Widgets
 **PlasMusic Toolbar** - [KDE Store](https://store.kde.org/p/2088872) / [GitHub](https://github.com/ccatterina/plasmusic-toolbar)
