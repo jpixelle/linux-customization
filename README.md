@@ -3,7 +3,6 @@ None of these projects are associated with me, I simply use them daily with my L
   <details>
       <summary>Click me for previews</summary>
       <img width="720" alt="Desktop" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview.png?raw=true" />
-      <img width="720" alt="Lock screen" src="https://github.com/jpixelle/linux-customization/blob/main/02_login.png?raw=true" />
       <img width="720" alt="Widget explanation" src="https://github.com/jpixelle/linux-customization/blob/main/previews/desktop_preview_widgets.png" />
   </details>
 
